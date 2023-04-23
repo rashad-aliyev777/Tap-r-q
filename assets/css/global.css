@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+}
+body {
+    background-color: #dcdde1;
+}
+header {
+    background-color: #c23616;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.sol {
+    display: flex;
+}
+.sol a {
+    text-decoration: none;
+    font-weight: 500px;
+    color: azure;
+}
+h1 {
+ display: inline-block;
+ font-family: 'Oswald', sans-serif;
+ margin: 0;
+ padding: 1px;
+}
+section {
+    background-color: #ffffff;
+}
+.linkler {
+    display: flex;
+    margin-left: 20px;
+    font-size: 18px;
+    padding: 20px;
+}
+.sag {
+    padding: 20px;
+}
+.linkler a{
+    margin-right: 15px;
+}
+.sekiller-sol img {
+    width: 70%;
+    margin-block-start: 50px;
+}
+.sekiller-sag img {
+    width: 70%;
+    margin-block-start: 50px;
+    float: right;
+}
+section {
+    display: flex;
+}
+.qeydiyyat {
+    padding: 100px;
+}
+.orta {
+    padding: 10px;
+    margin-right: 20px;
+}
+.sol2 {
+    padding: 50px;
+    float: left;
+}
+.sag2 {
+    padding: 50px;
+    float: right;
+}
+.fa-facebook {
+    font-size: 50px;
+    color: blue;
+}
+.fa-instagram {
+   font-size: 50px;
+   color: rgb(121, 66, 211);
+}
+.fa-whatsapp {
+    font-size: 50px;
+    color: green;
+}
+
